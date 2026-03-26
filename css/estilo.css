@@ -37,3 +37,11 @@ background-color: #c9b7c7;
 /* Comprimento */
 width: 100%;
 }
+/* UL */
+.menu {
+    list-style: none;
+    /* lista horizontal */
+    display: flex;
+    /* espaço */
+    gap: 1rem;
+}
